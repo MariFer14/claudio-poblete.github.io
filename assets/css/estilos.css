@@ -98,6 +98,7 @@ nav.scroll{
 .logo{
   font-size: 1.4em;
   font-weight: 700;
+  color: #D7A319;
 }
 
 .links{
@@ -106,7 +107,7 @@ nav.scroll{
 }
 
 .logo:hover, .links:hover{
-  color: #D7A319;
+  color: #F6F6F6;
 }
 /* fin edit nav */
 
